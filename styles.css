@@ -1,0 +1,17 @@
+#primaryContainer {
+    background-color: #DEF9C4;
+}
+
+#title {
+    color: #468585;
+    font-weight: bold;
+}
+
+#fieldLabel {
+    color: #41a387;
+}
+
+#field {
+    border-color: #50B498;
+    border-width: 0.15cap;
+}
